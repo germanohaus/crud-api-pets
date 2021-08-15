@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\maske\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\maske\\.nuget\\packages"
+    ]
+  }
+}
